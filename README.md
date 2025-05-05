@@ -26,7 +26,7 @@
 ## 🔗 Connect with Me
 
 - 📧 Email: goodwillnelson863@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 💼 LinkedIn: https://linkedin.com/in/gknelson  
 - 📁 Portfolio: *Coming soon*
 
 > _“I don’t wait to be ready. I get ready by doing.”_
