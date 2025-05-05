@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, I'm Goodwill Nelson Kabila Onyango
 
-<!--
-**gknelsonn/gknelsonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me
 
-Here are some ideas to get you started:
+- 🔭 Self-taught Data Scientiest and AI & Machine Learning Engineer
+- 🛩️ Background in Avionics Engineering  
+- 🐍 Building in Python, with passion for data & intelligent systems  
+- 🚀 Currently learning:
+  - Machine Learning (scikit-learn)
+  - Deep Learning (TensorFlow/Keras)
+  - Data analysis & model deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+
+- 🔧 Build and deploy ML projects  
+- 🧰 Curate a solid GitHub portfolio  
+- 💼 Land an internship in ML/AI  
+- 🌍 Contribute to AI development in Africa
+
+## ⚒️ Tools & Technologies
+
+- Languages: Python, SQL  
+- Libraries: NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow  
+- Tools: Jupyter Notebook, VS Code, GitHub, Google Colab
+
+## 🔗 Connect with Me
+
+- 📧 Email: goodwillnelson863@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 📁 Portfolio: *Coming soon*
+
+> _“I don’t wait to be ready. I get ready by doing.”_
+
