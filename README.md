@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Self-taught Data Scientiest and AI & Machine Learning Engineer
+- 🔭 Self-taught Data Scientist and AI & Machine Learning Engineer
 - 🛩️ Background in Avionics Engineering  
 - 🐍 Building in Python, with passion for data & intelligent systems  
 - 🚀 Currently learning:
