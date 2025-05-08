@@ -5,10 +5,6 @@
 - 🔭 Self-taught Data Scientist and AI & Machine Learning Engineer
 - 🛩️ Background in Avionics Engineering  
 - 🐍 Building in Python, with passion for data & intelligent systems  
-- 🚀 Currently learning:
-  - Machine Learning (scikit-learn)
-  - Deep Learning (TensorFlow/Keras)
-  - Data analysis & model deployment
 
 ## 🎯 Goals
 
